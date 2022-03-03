@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { lazy, Suspense } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import tw from 'twin.macro';
-import TopSection from './containers/TopSection/TopSection';
-import Explore from './containers/ExploreSection/Explore';
-import Footer from './components/Footer/Footer';
+const TopSection = lazy(() => import( './containers/TopSection/TopSection'));
+const Explore = lazy(() => import ('./containers/ExploreSection/Explore'));
+const Footer = lazy(() => import( './components/Footer/Footer'));
+
 
 const AppContainer = tw.div`
   flex
@@ -17,11 +18,14 @@ const AppContainer = tw.div`
 
 function App() {
   return (
-    <AppContainer>
+    <Suspense fallback={<div>Loading...</div>}>
+      <AppContainer>
         <TopSection/>
         <Explore/>
         <Footer/>
-    </AppContainer>
+      </AppContainer>
+    </Suspense>
+
   );
 }
 
