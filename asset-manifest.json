@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJs-TailWind-TwinMcroApp/static/css/main.89f4247d.css",
-    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.3eec2f1f.js",
+    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.4d81e5c1.js",
     "static/js/787.23b6b09b.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/787.23b6b09b.chunk.js",
     "static/media/Sawat.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/Sawat.89bc1c22b1ba24ad4746.jpg",
     "static/media/SaifulMalooq.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/SaifulMalooq.16872bf302fc3814f7cb.jpg",
@@ -11,11 +11,11 @@
     "static/media/badshahiMasjid.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/badshahiMasjid.edc08e3ea83927f4e3f3.jpg",
     "index.html": "/ReactJs-TailWind-TwinMcroApp/index.html",
     "main.89f4247d.css.map": "/ReactJs-TailWind-TwinMcroApp/static/css/main.89f4247d.css.map",
-    "main.3eec2f1f.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.3eec2f1f.js.map",
+    "main.4d81e5c1.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.4d81e5c1.js.map",
     "787.23b6b09b.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/787.23b6b09b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89f4247d.css",
-    "static/js/main.3eec2f1f.js"
+    "static/js/main.4d81e5c1.js"
   ]
 }
