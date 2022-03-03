@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/ReactJs-TailWind-TwinMcroApp/static/css/main.c415f1f8.css",
-    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.7541ea41.js",
+    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.536e268c.js",
     "static/js/86.2e55e27b.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/86.2e55e27b.chunk.js",
-    "static/js/562.9bc21ebc.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/562.9bc21ebc.chunk.js",
+    "static/css/922.017c3884.chunk.css": "/ReactJs-TailWind-TwinMcroApp/static/css/922.017c3884.chunk.css",
+    "static/js/922.9ff19eb0.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/922.9ff19eb0.chunk.js",
     "static/js/119.4b577809.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/119.4b577809.chunk.js",
     "static/js/787.23b6b09b.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/787.23b6b09b.chunk.js",
-    "static/css/421.8ded7c28.chunk.css": "/ReactJs-TailWind-TwinMcroApp/static/css/421.8ded7c28.chunk.css",
-    "static/js/421.6c2cf97c.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/421.6c2cf97c.chunk.js",
-    "static/js/667.f81a290c.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/667.f81a290c.chunk.js",
-    "static/js/182.82201d4f.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/182.82201d4f.chunk.js",
-    "static/js/793.524f1700.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/793.524f1700.chunk.js",
-    "static/js/976.9696d85e.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/976.9696d85e.chunk.js",
+    "static/js/655.03fbea3e.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/655.03fbea3e.chunk.js",
+    "static/js/950.fe1be749.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/950.fe1be749.chunk.js",
+    "static/js/896.255a4f14.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/896.255a4f14.chunk.js",
+    "static/js/978.f3d5f8d9.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/978.f3d5f8d9.chunk.js",
     "static/media/Sawat.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/Sawat.89bc1c22b1ba24ad4746.jpg",
     "static/media/SaifulMalooq.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/SaifulMalooq.16872bf302fc3814f7cb.jpg",
     "static/media/Attabad Lake.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/Attabad Lake.4f37666e566d79e4c30b.jpg",
@@ -20,20 +19,19 @@
     "static/media/badshahiMasjid.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/badshahiMasjid.edc08e3ea83927f4e3f3.jpg",
     "index.html": "/ReactJs-TailWind-TwinMcroApp/index.html",
     "main.c415f1f8.css.map": "/ReactJs-TailWind-TwinMcroApp/static/css/main.c415f1f8.css.map",
-    "main.7541ea41.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.7541ea41.js.map",
+    "main.536e268c.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.536e268c.js.map",
     "86.2e55e27b.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/86.2e55e27b.chunk.js.map",
-    "562.9bc21ebc.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/562.9bc21ebc.chunk.js.map",
+    "922.017c3884.chunk.css.map": "/ReactJs-TailWind-TwinMcroApp/static/css/922.017c3884.chunk.css.map",
+    "922.9ff19eb0.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/922.9ff19eb0.chunk.js.map",
     "119.4b577809.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/119.4b577809.chunk.js.map",
     "787.23b6b09b.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/787.23b6b09b.chunk.js.map",
-    "421.8ded7c28.chunk.css.map": "/ReactJs-TailWind-TwinMcroApp/static/css/421.8ded7c28.chunk.css.map",
-    "421.6c2cf97c.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/421.6c2cf97c.chunk.js.map",
-    "667.f81a290c.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/667.f81a290c.chunk.js.map",
-    "182.82201d4f.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/182.82201d4f.chunk.js.map",
-    "793.524f1700.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/793.524f1700.chunk.js.map",
-    "976.9696d85e.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/976.9696d85e.chunk.js.map"
+    "655.03fbea3e.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/655.03fbea3e.chunk.js.map",
+    "950.fe1be749.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/950.fe1be749.chunk.js.map",
+    "896.255a4f14.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/896.255a4f14.chunk.js.map",
+    "978.f3d5f8d9.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/978.f3d5f8d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c415f1f8.css",
-    "static/js/main.7541ea41.js"
+    "static/js/main.536e268c.js"
   ]
 }
