@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJs-TailWind-TwinMcroApp/static/css/main.c415f1f8.css",
-    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.913aee8d.js",
+    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.ff589516.js",
     "static/js/86.2e55e27b.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/86.2e55e27b.chunk.js",
     "static/js/562.9bc21ebc.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/562.9bc21ebc.chunk.js",
     "static/js/119.4b577809.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/119.4b577809.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/badshahiMasjid.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/badshahiMasjid.edc08e3ea83927f4e3f3.jpg",
     "index.html": "/ReactJs-TailWind-TwinMcroApp/index.html",
     "main.c415f1f8.css.map": "/ReactJs-TailWind-TwinMcroApp/static/css/main.c415f1f8.css.map",
-    "main.913aee8d.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.913aee8d.js.map",
+    "main.ff589516.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.ff589516.js.map",
     "86.2e55e27b.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/86.2e55e27b.chunk.js.map",
     "562.9bc21ebc.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/562.9bc21ebc.chunk.js.map",
     "119.4b577809.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/119.4b577809.chunk.js.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.c415f1f8.css",
-    "static/js/main.913aee8d.js"
+    "static/js/main.ff589516.js"
   ]
 }
