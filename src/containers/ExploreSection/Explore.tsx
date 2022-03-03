@@ -12,14 +12,6 @@ import Kashmir from '../../Images/Kashmir.jpg';
 import SaifulMalooq from '../../Images/SaifulMalooq.jpg';
 import AttabadLake from '../../Images/Attabad Lake.jpg';
 
-// import Sawat from '../../Images/Sawat.jpg';
-// import BadshahiImage from '../../Images/badshai.jpg';
-// import BadshahiMasjid from '../../Images/badshahiMasjid.jpg';
-// import Kashmir from '../../Images/Kashmir.jpg';
-// import SaifulMalooq from '../../Images/SaifulMalooq.jpg';
-// import AttabadLake from '../../Images/Attabad Lake.jpg';
-// import K2Image from '../../Images/K2.jpg';
-
 const ExploreSectionContainer = tw(Element)`
     w-full
     h-screen

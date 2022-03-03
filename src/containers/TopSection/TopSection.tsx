@@ -135,10 +135,6 @@ export default function TopSection() {
           <DescriptionText>
             Where the rock, snow and storm can only be conquered with the passion
             and winning attitude.
-
-            {/* Let's explore one of the great countries in the world, namely
-            Pakistan. Enjoy 3 vacation packages at competitive prices and
-            strong soul. */}
           </DescriptionText>
         </InfoSection>
         </LandingSection>
