@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactJs-TailWind-TwinMcroApp/static/css/main.89f4247d.css",
+    "main.js": "/ReactJs-TailWind-TwinMcroApp/static/js/main.71bbd3eb.js",
+    "static/js/787.23b6b09b.chunk.js": "/ReactJs-TailWind-TwinMcroApp/static/js/787.23b6b09b.chunk.js",
+    "static/media/Sawat.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/Sawat.89bc1c22b1ba24ad4746.jpg",
+    "static/media/SaifulMalooq.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/SaifulMalooq.16872bf302fc3814f7cb.jpg",
+    "static/media/Attabad Lake.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/Attabad Lake.4f37666e566d79e4c30b.jpg",
+    "static/media/Kashmir.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/Kashmir.aae162259ffab4962ca0.jpg",
+    "static/media/peakpx.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/peakpx.1013468362774a2cbd12.jpg",
+    "static/media/badshahiMasjid.jpg": "/ReactJs-TailWind-TwinMcroApp/static/media/badshahiMasjid.edc08e3ea83927f4e3f3.jpg",
+    "index.html": "/ReactJs-TailWind-TwinMcroApp/index.html",
+    "main.89f4247d.css.map": "/ReactJs-TailWind-TwinMcroApp/static/css/main.89f4247d.css.map",
+    "main.71bbd3eb.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/main.71bbd3eb.js.map",
+    "787.23b6b09b.chunk.js.map": "/ReactJs-TailWind-TwinMcroApp/static/js/787.23b6b09b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f4247d.css",
+    "static/js/main.71bbd3eb.js"
+  ]
+}
