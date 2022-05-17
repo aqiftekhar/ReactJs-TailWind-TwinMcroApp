@@ -20,3 +20,9 @@ To run, use following command.
 ```
 npm start
 ```
+
+The live demo is published at 
+
+```
+https://aqiftekhar.github.io/ReactJs-TailWind-TwinMcroApp/
+```
